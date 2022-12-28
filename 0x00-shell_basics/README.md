@@ -1,1 +1,1 @@
-Display the contents list of your current directory in long format with user and group IDs displayed numerically
+Create a script that creates a directory named
